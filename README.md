@@ -1,1 +1,1 @@
-## [https://beta.reactjs.org/](https://beta.reactjs.org/) sitesinin türkçeye çevrilmiş halidir.
+Yeni [React Js](https://beta.reactjs.org/) sitesinin türkçeye çevrilmiş halidir.
