@@ -13,4 +13,4 @@ React dökümantasyonuna hoş geldiniz. Bu sayfa size günlük olarak kullanaca�
 
 <h2>Bileşen oluşturmak  ve iç içe yerleştirmek</h2>
 
-React uygulamaları bileşenler ile oluşturulur. Bir bileşen kendi mantığına ve görünüşüne sahip olan kullanıcı arayüzünün bir parçasıdır. Bir bileşen küçük bir button olabileceği gibi bütün bir sayfada olabilir
+React uygulamaları bileşenler ile oluşturulur. Bir bileşen kendi mantığına ve görünüşüne sahip olan kullanıcı arayüzünün bir parçasıdır. Bir bileşen küçük bir button olabileceği gibi bütün bir sayfada olabilir.
